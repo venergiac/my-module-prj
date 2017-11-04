@@ -8,5 +8,16 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>my-module-it</artifactId>
 
+      <build>
+    <sourceDirectory>com.my.module.hello.it</sourceDirectory>
+  </build>
   
+  <dependencies>
+
+  	  <dependency>
+  		<groupId>com.my.module</groupId>
+    	<artifactId>my-module-api</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
  </project>

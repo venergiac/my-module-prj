@@ -3,6 +3,7 @@
   <groupId>com.my.module</groupId>
   <artifactId>my-module-prj</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
   
   <modules>
 	<module>my-module</module>
