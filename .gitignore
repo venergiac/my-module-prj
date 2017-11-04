@@ -6,3 +6,11 @@
 **/.project
 **/.classpath
 **/.settings
+target
+.gitignore
+/my-module-api/.classpath
+/my-module-api/.project
+/my-module-api/.settings
+/my-module/.classpath
+/my-module/.project
+/my-module/.settings
